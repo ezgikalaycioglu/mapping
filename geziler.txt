@@ -1,0 +1,11 @@
+SEHIR,ISIM,AY,YIL,FOTO,LAT,LON
+Antalya,Aşağı Düden Şelalesi,02,2021,https://photos.app.goo.gl/6Mppa1xfjvtyciow6, 36.85094658407917, 30.784248304538146
+Ankara,Kuğulu Park,05,2021,https://photos.app.goo.gl/oX1AcpMfTXGGK4jh9, 39.901800, 32.860600
+Zonguldak,Bizim Balkonlu Restoran,06,2020,https://photos.app.goo.gl/Dk6jX88a9FUmVJag7, 41.279909, 31.420260
+Mugla,Bodrum Sualtı Arkeoloji Müzesi,06,2021,https://photos.app.goo.gl/WyqE7aWWTGozZciF6, 37.03268409313062, 27.429025835764516
+Istanbul,Limonlu Bahçe,07,2021,https://photos.app.goo.gl/6sCwKUiMv7zyCYgW7, 41.03197086852332, 28.980768682521
+Düzce, Akçakoca Çuhallı Plajı,09,2020,https://photos.app.goo.gl/U6kWiCzrsULVLTUP6, 41.091003, 31.145917
+Ordu,Teleferik,07,2020,https://photos.app.goo.gl/4Zna7pqPUTM84tPv8, 40.992419597102035, 37.85925172746752
+Trabzon, Sümela Manastırı,07,2020, https://photos.app.goo.gl/de9ruGi1qC4VQcceA, 40.69038290218047, 39.65910300095631
+Rize, Cadı'nın oteli penceresi,07,2020, https://photos.app.goo.gl/obH9zDequXiRjpao8, 40.954925, 41.096028
+Artvin,Çoruh nehri kıyısındaki ev,07,2020,https://photos.app.goo.gl/Ve2JsGrkQRJnHfyA7, 41.442753, 41.692928
